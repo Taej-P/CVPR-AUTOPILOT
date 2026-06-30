@@ -282,7 +282,7 @@ If you use this code, please cite the workshop paper:
 ```bibtex
 @inproceedings{cvpr2026autopilot,
   title  = {Selective Optical-Flow Correction for Zero-Shot CCTV Accident Analysis with Vision-Language Models},
-  author = {...},
+  author = {Taejin Park, Yujin Jeong, and Jaekoo Lee},
   booktitle = {CVPR Workshop on AUTOPILOT},
   year   = {2026}
 }
